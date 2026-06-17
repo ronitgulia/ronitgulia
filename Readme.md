@@ -23,7 +23,7 @@ Specializing in building and shipping production systems across LLMs, RAG, Compu
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,c,cpp,js,ts,kotlin,fastapi,django,flask,nodejs,react,nextjs,html,css,tailwind,docker,kubernetes,postgres,mysql,mongodb,supabase,firebase,git,linux&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,c,cpp,js,ts,kotlin,fastapi,django,flask,nodejs,react,nextjs,html,css,tailwind,docker,kubernetes,postgres,mysql,mongodb,supabase,firebase,git,linux" alt="Tech Stack" />
 </div>
 
 ---
