@@ -9,21 +9,30 @@
 ## 🚀 About Me
 
 **AI/ML Engineer & Full Stack Developer**  
-Specializing in integrating production-grade Deep Learning models with highly performant, responsive, and stunning user interfaces.
+Specializing in building and shipping production systems across LLMs, RAG, Computer Vision, and MLOps.
 
-- 🔭 I’m currently working on building **end-to-end intelligent architectures**
-- 🌱 I’m currently exploring **LLMs, RAG pipelines, and agentic workflows**
-- 💬 Ask me about **PyTorch, TensorFlow, FastAPI, Next.js, or React**
+- 🔭 I’m currently working on **production-grade AI systems, including RAG chatbots and CV pipelines**
+- 🌱 I’m currently exploring **LangGraph, Agentic Workflows, and Advanced MLOps**
+- 💬 Ask me about **PyTorch, TensorFlow, LangChain, FastAPI, Docker, or React**
+- 🌐 Portfolio: **[portfolio-1lb1.vercel.app](https://portfolio-1lb1.vercel.app)**
 - 📧 Reach me at **[ronitgulia3@gmail.com](mailto:ronitgulia3@gmail.com)**
-- 💼 LinkedIn: **[ronitgulia](https://www.linkedin.com/in/ronitgulia)**
+- 💼 LinkedIn: **[ronigulia](https://www.linkedin.com/in/ronigulia)**
 
 ---
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,nodejs,react,nextjs,ts,js,tailwind,html,css,postgres,mongodb,supabase,git,docker,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,c,cpp,js,ts,kotlin,fastapi,django,flask,nodejs,react,nextjs,html,css,tailwind,docker,kubernetes,postgres,mysql,mongodb,supabase,firebase,git,linux&perline=10" alt="Tech Stack" />
 </div>
+
+---
+
+## 💻 Featured Projects
+
+- **RAG Knowledge-Base Chatbot**: Hybrid FAISS + BM25 Retrieval-Augmented Generation chatbot hitting 0.92+ on RAGAS metrics.
+- **AutoStream AI Agent**: LangGraph-powered conversational lead-capture agent with multi-step flow and WhatsApp deployment.
+- **Victor Bot Detection**: Real-time XGBoost + Isolation Forest ensemble for sub-5ms malicious HTTP traffic fingerprinting.
 
 ---
 
