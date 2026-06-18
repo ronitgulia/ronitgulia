@@ -18,7 +18,7 @@
 
 > *"I care more about whether something actually works in the real world than whether it looks good on paper."*
 
-I'm an AI/ML engineer from **Jaipur, India 🇮🇳** who genuinely enjoys taking things from a rough idea to something running in production. I've worked across LLMs, computer vision, and backend systems — mostly because I get bored if I'm only doing one thing.
+I'm an AI/ML engineer who genuinely enjoys taking things from a rough idea to something running in production. I've worked across LLMs, computer vision, and backend systems — mostly because I get bored if I'm only doing one thing.
 
 **Things I spend most of my time on:**
 - 🤖 **Generative AI & RAG** — building LLM-powered apps that actually retrieve the right context
