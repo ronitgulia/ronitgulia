@@ -16,15 +16,15 @@
 
 ### Ronit Gulia — AI/ML Engineer & Full Stack Developer
 
-> *"I don't just build models — I build systems that scale."*
+> *"I care more about whether something actually works in the real world than whether it looks good on paper."*
 
-Passionate engineer from **Jaipur, India 🇮🇳**, specializing in end-to-end AI pipelines that go from research prototype to production. I blend deep ML expertise with full-stack engineering to ship real-world impact.
+I'm an AI/ML engineer from **Jaipur, India 🇮🇳** who genuinely enjoys taking things from a rough idea to something running in production. I've worked across LLMs, computer vision, and backend systems — mostly because I get bored if I'm only doing one thing.
 
-**What I do:**
-- 🤖 **Generative AI & RAG** — LLM pipelines, retrieval systems, agentic workflows
-- 🧪 **MLOps & Deployment** — Docker, Kubernetes, CI/CD for ML models
-- 👁️ **Computer Vision** — Real-time inference, object detection, anomaly detection
-- 🌐 **Full Stack** — FastAPI backends + React/Next.js frontends
+**Things I spend most of my time on:**
+- 🤖 **Generative AI & RAG** — building LLM-powered apps that actually retrieve the right context
+- 🧪 **MLOps** — making sure models don't just work on my machine, but stay working in production
+- 👁️ **Computer Vision** — detection, classification, real-time pipelines
+- 🌐 **Full Stack** — FastAPI on the backend, React or Next.js on the front
 
 </td>
 <td valign="top" width="40%" align="center">
