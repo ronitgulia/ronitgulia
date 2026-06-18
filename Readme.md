@@ -8,17 +8,54 @@
 
 <br/>
 
-## 🚀 About Me
+## 🧠 About Me
 
-**AI/ML Engineer & Full Stack Developer** based in Jaipur, India.  
-Specializing in building and shipping production systems across **LLMs, RAG, Computer Vision, and MLOps**.
+<table>
+<tr>
+<td valign="top" width="60%">
 
-- 🔭 I’m currently working on **production-grade AI systems**, including RAG chatbots and CV pipelines.
-- 🌱 I’m currently exploring **LangGraph, Agentic Workflows, and Advanced MLOps**.
-- 💬 Ask me about **PyTorch, TensorFlow, LangChain, FastAPI, Docker, or React**.
-- 🌐 Portfolio: **[portfolio-1lb1.vercel.app](https://portfolio-1lb1.vercel.app)**
-- 📧 Reach me at: **[ronitgulia3@gmail.com](mailto:ronitgulia3@gmail.com)**
-- 💼 LinkedIn: **[ronigulia](https://www.linkedin.com/in/ronigulia)**
+### Ronit Gulia — AI/ML Engineer & Full Stack Developer
+
+> *"I don't just build models — I build systems that scale."*
+
+Passionate engineer from **Jaipur, India 🇮🇳**, specializing in end-to-end AI pipelines that go from research prototype to production. I blend deep ML expertise with full-stack engineering to ship real-world impact.
+
+**What I do:**
+- 🤖 **Generative AI & RAG** — LLM pipelines, retrieval systems, agentic workflows
+- 🧪 **MLOps & Deployment** — Docker, Kubernetes, CI/CD for ML models
+- 👁️ **Computer Vision** — Real-time inference, object detection, anomaly detection
+- 🌐 **Full Stack** — FastAPI backends + React/Next.js frontends
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00D9FF?style=for-the-badge&logoColor=white)](https://portfolio-1lb1.vercel.app)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ronigulia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronigulia)
+
+[![Email](https://img.shields.io/badge/Email-ronitgulia3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronitgulia3@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-ronitgulia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronitgulia)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ronitgulia&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Currently Building](https://img.shields.io/badge/🔭_Building-Production--Grade_AI_Systems-1e1e2e?style=flat-square&labelColor=0D1117&color=00D9FF)
+&nbsp;
+![Currently Learning](https://img.shields.io/badge/🌱_Exploring-LangGraph_•_Agentic_Workflows_•_MLOps-1e1e2e?style=flat-square&labelColor=0D1117&color=7C3AED)
+&nbsp;
+![Open To](https://img.shields.io/badge/💼_Open_To-AI_%26_SWE_Opportunities-1e1e2e?style=flat-square&labelColor=0D1117&color=10B981)
+
+</div>
 
 ---
 
