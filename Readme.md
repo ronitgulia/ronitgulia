@@ -36,7 +36,7 @@
 ║                                                                          ║
 ║   DESIGNATION  :  RONIT GULIA  |  AI/ML Engineer & Full-Stack Dev        ║
 ║   CLASS        :  Quantum AI Architect + Full-Stack Warlord              ║
-║   EDUCATION    :  B.Tech CSE (Pursuing)  |  NIMS University            ║
+║   EDUCATION    :  B.Tech AIML (Pursuing)  |  NIMS University             ║
 ║   LOCATION     :  India, Sol-III Sector, Milky Way                       ║
 ║   STATUS       :  >> OPEN TO WORK — AI/ML | SWE | Full-Stack <<          ║
 ║                                                                          ║
@@ -130,17 +130,17 @@ I am **Ronit Gulia** — an **AI/ML Engineer** and **Full-Stack Developer** base
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
-║             ⚡   Q U A N T U M   M I S S I O N   L O G   ⚡             ║
+║             ⚡   Q U A N T U M   M I S S I O N   L O G   ⚡          ║
 ║                                                                       ║
 ╠═══════════════════════════════════════════════════════════════════════╣
 ║                                                                       ║
 ║  🔮  BUILDING  ->  Production-Grade AI & Agentic Systems              ║
-║  ⚡  GRINDING  ->  LangGraph  Multimodal LLMs  MLOps                   ║
+║  ⚡  GRINDING  ->  LangGraph  Multimodal LLMs  MLOps                  ║
 ║  🎯  SEEKING   ->  Full-Time AI/ML Engineer or SWE Role               ║
 ║  📚  LEARNING  ->  Advanced RAG  Agent Memory  Evals                  ║
 ║  👾  STATUS    ->  AVAILABLE NOW — Let's Build Something Real         ║
 ║                                                                       ║
-║  AVAILABILITY  [=================================================>]  IMMEDIATE║
+║  AVAILABILITY  [=========================================>]  IMMEDIATE║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
@@ -197,7 +197,7 @@ I am **Ronit Gulia** — an **AI/ML Engineer** and **Full-Stack Developer** base
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
-║            * * *   A C H I E V E M E N T S   U N L O C K E D   * * *   ║
+║            * * *   A C H I E V E M E N T S   U N L O C K E D   * * *      ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -318,7 +318,7 @@ XGBoost Isolation Forest SHAP Flask REST API Cybersecurity
 ║  🎯  AVAILABILITY    :  Open to Work -- Full-Time / Contract          ║
 ║  📧  CONTACT         :  ronitgulia3@gmail.com                         ║
 ║  🔗  LINKEDIN        :  linkedin.com/in/ronigulia                     ║
-║  ⚡  PHILOSOPHY      :  "Build. Break. Learn. Rebuild. Dominate."      ║
+║  ⚡  PHILOSOPHY      :  "Build. Break. Learn. Rebuild. Dominate."     ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
@@ -353,7 +353,7 @@ XGBoost Isolation Forest SHAP Flask REST API Cybersecurity
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
-║      ⚡  Forged in the Quantum Realm. Deployed Across the Stars.  ⚡       ║
+║      ⚡  Forged in the Quantum Realm. Deployed Across the Stars.  ⚡    ║
 ║       -- RONIT GULIA  |  Neural Sovereign  |  Open to Work 2026 --       ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
