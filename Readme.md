@@ -1,27 +1,25 @@
-﻿<!-- ██████████████████████████████████████████████████████████████ -->
-<!-- ██  RONIT GULIA — 22ND CENTURY AI GAMER PROFILE v2.2.100  ██ -->
-<!-- ██████████████████████████████████████████████████████████████ -->
+﻿<!-- RONIT GULIA — 22ND CENTURY AI GAMER PROFILE v2.2.100 -->
 
 <div align="center">
 
 <!-- HYPER QUANTUM HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,20:0A0A2E,50:0D0D3D,80:1A0A4E,100:000000&height=350&section=header&text=RONIT%20GULIA&fontSize=90&fontColor=00FFFF&animation=blinking&stroke=00FFFF&strokeWidth=3&desc=⬡%20NEURAL%20ARCHITECT%20◈%20AI%20WARLORD%20◈%20CYBER%20GHOST%20◈%20GAMER%20GOD%20⬡&descSize=20&descAlignY=78&descColor=FF00FF&fontAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,20:0A0A2E,50:0D0D3D,80:1A0A4E,100:000000&height=350&section=header&text=RONIT%20GULIA&fontSize=90&fontColor=00FFFF&animation=blinking&stroke=00FFFF&strokeWidth=3&desc=%23%23%20NEURAL%20ARCHITECT%20%7C%20AI%20WARLORD%20%7C%20CYBER%20GHOST%20%7C%20GAMER%20GOD%20%23%23&descSize=20&descAlignY=78&descColor=FF00FF&fontAlignY=55" />
 
 </div>
 
 <!-- HOLOGRAPHIC BOOT SEQUENCE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=◈+QUANTUM+CORE+INITIALIZED...+YEAR+2199+A.D;⬡+NEURAL+LINK+ESTABLISHED+—+SYNAPTIC+BANDWIDTH%3A+∞+TB%2Fs;🎮+PLAYER+CLASS%3A+LEGENDARY+%5BMAX+PRESTIGE%5D+UNLOCKED;🤖+DIRECTIVE%3A+REWRITE+REALITY+THROUGH+ARTIFICIAL+INTELLIGENCE;⚡+LOADING+RONIT.EXE+—+THREAT+LEVEL%3A+MAXIMUM;🧠+TRAINING+NEURAL+NETS+ACROSS+6+DIMENSIONS+SIMULTANEOUSLY;👾+BOSS+FIGHTS+CLEARED%3A+∞+%7C+DEATHS%3A+0+%7C+RESPAWNS%3A+UNNECESSARY;🚀+MISSION%3A+BUILD+THE+INTELLIGENCE+THAT+BUILDS+THE+FUTURE;◈+GG+EZ+—+RONIT.EXE+v2100+IS+FULLY+OPERATIONAL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=>>+QUANTUM+CORE+INITIALIZED...+YEAR+2199+A.D;>>+NEURAL+LINK+ESTABLISHED+--+SYNAPTIC+BANDWIDTH%3A+INF+TB%2Fs;🎮+PLAYER+CLASS%3A+LEGENDARY+%5BMAX+PRESTIGE%5D+UNLOCKED;🤖+DIRECTIVE%3A+REWRITE+REALITY+THROUGH+ARTIFICIAL+INTELLIGENCE;⚡+LOADING+RONIT.EXE+--+THREAT+LEVEL%3A+MAXIMUM;🧠+TRAINING+NEURAL+NETS+ACROSS+6+DIMENSIONS+SIMULTANEOUSLY;👾+BOSS+FIGHTS+CLEARED%3A+INF+%7C+DEATHS%3A+0+%7C+RESPAWNS%3A+UNNECESSARY;🚀+MISSION%3A+BUILD+THE+INTELLIGENCE+THAT+BUILDS+THE+FUTURE;>>+GG+EZ+--+RONIT.EXE+v2100+IS+FULLY+OPERATIONAL" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- HOLOGRAPHIC STATUS GRID -->
+<!-- STATUS BADGES -->
 <div align="center">
 
-![STATUS](https://img.shields.io/badge/◈_STATUS-ONLINE_∞-00FFFF?style=for-the-badge&labelColor=0A0A2E&logo=statuspage&logoColor=00FFFF)
-![PRESTIGE](https://img.shields.io/badge/⬡_PRESTIGE-LEVEL_∞-FF00FF?style=for-the-badge&labelColor=0A0A2E&logo=gamepad2&logoColor=FF00FF)
-![XP](https://img.shields.io/badge/⚡_XP-MAXIMUM_OVERFLOW-7B2FFF?style=for-the-badge&labelColor=0A0A2E&logoColor=7B2FFF)
+![STATUS](https://img.shields.io/badge/>>_STATUS-ONLINE_INF-00FFFF?style=for-the-badge&labelColor=0A0A2E&logo=statuspage&logoColor=00FFFF)
+![PRESTIGE](https://img.shields.io/badge/>>_PRESTIGE-LEVEL_INF-FF00FF?style=for-the-badge&labelColor=0A0A2E&logoColor=FF00FF)
+![XP](https://img.shields.io/badge/⚡_XP-MAXIMUM_OVERFLOW-7B2FFF?style=for-the-badge&labelColor=0A0A2E)
 ![RANK](https://img.shields.io/badge/🏆_RANK-QUANTUM_GOD-FF6B00?style=for-the-badge&labelColor=0A0A2E)
 ![BUILD](https://img.shields.io/badge/🔮_BUILD-v2.2.100-00FF9F?style=for-the-badge&labelColor=0A0A2E)
 
@@ -29,45 +27,41 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> ◈ QUANTUM IDENTITY MATRIX
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> >> QUANTUM IDENTITY MATRIX
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║                                                                          ║
-║   ██████╗  ██████╗ ███╗   ██╗██╗████████╗    ██████╗ ██╗   ██╗        ║
-║   ██╔══██╗██╔═══██╗████╗  ██║██║╚══██╔══╝   ██╔════╝ ██║   ██║        ║
-║   ██████╔╝██║   ██║██╔██╗ ██║██║   ██║      ██║  ███╗██║   ██║        ║
-║   ██╔══██╗██║   ██║██║╚██╗██║██║   ██║      ██║   ██║██║   ██║        ║
-║   ██║  ██║╚██████╔╝██║ ╚████║██║   ██║      ╚██████╔╝╚██████╔╝        ║
-║   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝   ╚═╝       ╚═════╝  ╚═════╝         ║
-║                                                                          ║
-║  ───────────────────────────────────────────────────────────────────   ║
-║   ◈  DESIGNATION   : RONIT GULIA — NEURAL SOVEREIGN                    ║
-║   ⬡  CLASS         : Quantum AI Architect + Full-Stack Warlord          ║
-║   ⚡  FACTION       : The Neural Syndicate [2199 A.D]                   ║
-║   🌍  ORIGIN        : India, Sol-III Sector, Milky Way                  ║
-║   🔮  CLEARANCE     : LEVEL OMEGA — UNRESTRICTED ACCESS                 ║
-║  ───────────────────────────────────────────────────────────────────   ║
-║                                                                          ║
-║   ◉ NEURAL STATS                 ◉ COMBAT METRICS                      ║
-║   ┌─────────────────────────┐    ┌──────────────────────────────┐      ║
-║   │ INTELLIGENCE  ██████ MAX│    │ MODELS DEPLOYED    ██████ ∞  │      ║
-║   │ CREATIVITY    █████░ 98%│    │ BUGS CRUSHED       ██████ MAX│      ║
-║   │ EXECUTION     ██████ MAX│    │ LATENCY <5ms       ██████ MAX│      ║
-║   │ GRIND POWER   ██████ MAX│    │ UPTIME             ██████ ∞  │      ║
-║   │ CHAOS CONTROL █████░ 96%│    │ RAGAS SCORE        ██████ MAX│      ║
-║   └─────────────────────────┘    └──────────────────────────────┘      ║
-║                                                                          ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-╚══════════════════════════════════════════════════════════════════════════╝
++==========================================================================+
+|                                                                          |
+|   ____   ___  _   _ ___ _____    ____  _   _ _     ___ _    _          |
+|  |  _ \ / _ \| \ | |_ _|_   _|  / ___|| | | | |   |_ _/ \  | |        |
+|  | |_) | | | |  \| || |  | |   | |  _ | | | | |    | / _ \ | |        |
+|  |  _ <| |_| | |\  || |  | |   | |_| || |_| | |___ |/ ___ \|_|        |
+|  |_| \_\\___/|_| \_|___| |_|    \____| \___/|_____|_/_/   \_(_)        |
+|                                                                          |
++--------------------------------------------------------------------------+
+|  >>  DESIGNATION   : RONIT GULIA -- NEURAL SOVEREIGN                    |
+|  >>  CLASS         : Quantum AI Architect + Full-Stack Warlord           |
+|  >>  FACTION       : The Neural Syndicate  [2199 A.D]                   |
+|  >>  ORIGIN        : India, Sol-III Sector, Milky Way                   |
+|  >>  CLEARANCE     : LEVEL OMEGA -- UNRESTRICTED ACCESS                 |
++--------------------------------------------------------------------------+
+|                                                                          |
+|  [ NEURAL STATS ]                  [ COMBAT METRICS ]                   |
+|                                                                          |
+|  INTELLIGENCE   [===========] MAX  MODELS DEPLOYED  [===========] INF   |
+|  CREATIVITY     [==========.]  98% BUGS CRUSHED     [===========] MAX   |
+|  EXECUTION      [===========] MAX  LATENCY <5ms     [===========] MAX   |
+|  GRIND POWER    [===========] MAX  UPTIME           [===========] INF   |
+|  CHAOS CONTROL  [==========.]  96% RAGAS SCORE      [===========] MAX   |
+|                                                                          |
++==========================================================================+
 ```
 
 <table>
 <tr>
 <td valign="top" width="55%">
 
-### ⬡ LORE & ORIGIN STORY
+### >> LORE & ORIGIN STORY
 
 > *"I don't build AI that looks smart on paper. I build AI that's still running when the planet sleeps."*
 
@@ -80,21 +74,21 @@ From my first `print("Hello World")` to deploying **LangGraph agents that think 
 **`> ACTIVE SKILL TREES:`**
 
 ```yaml
-🔮 Quantum AI Layer [UNLOCKED]:
+[UNLOCKED] Quantum AI Layer:
   - LLM-powered agents with agentic memory
   - LangChain | LangGraph | RAG Pipelines
   - Faithfulness: 0.92+ | Latency: <5ms
 
-⚡ Neural Combat [UNLOCKED]:
+[UNLOCKED] Neural Combat:
   - PyTorch | Computer Vision | XGBoost
   - Real-time inference, no-cap benchmarks
   - MLOps: models that stay alive in prod
 
-🌐 Cyber Architecture [UNLOCKED]:
+[UNLOCKED] Cyber Architecture:
   - FastAPI | React | Next.js | Docker | K8s
   - Deployed. Scaled. Zero downtime. Ever.
 
-☠️ Stealth Operations [UNLOCKED]:
+[UNLOCKED] Stealth Operations:
   - Cybersecurity AI | SHAP Explainability
   - Threat detection: sub-5ms fingerprinting
 ```
@@ -110,7 +104,7 @@ From my first `print("Hello World")` to deploying **LangGraph agents that think 
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-BREACH_THE_MATRIX-00FFFF?style=for-the-badge&labelColor=0A0A2E)](https://portfolio-1lb1.vercel.app)
 
-[![LinkedIn](https://img.shields.io/badge/⬡_LINKEDIN-ESTABLISH_LINK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A2E)](https://www.linkedin.com/in/ronigulia)
+[![LinkedIn](https://img.shields.io/badge/>>_LINKEDIN-ESTABLISH_LINK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A2E)](https://www.linkedin.com/in/ronigulia)
 
 [![Email](https://img.shields.io/badge/📡_COMM_CHANNEL-OPEN_FREQUENCY-FF00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A2E)](mailto:ronitgulia3@gmail.com)
 
@@ -118,7 +112,7 @@ From my first `print("Hello World")` to deploying **LangGraph agents that think 
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ronitgulia&style=for-the-badge&color=00FFFF&label=⬡+NEURAL+LINKS)
+![Profile Views](https://komarev.com/ghpvc/?username=ronitgulia&style=for-the-badge&color=00FFFF&label=>>+NEURAL+LINKS)
 
 </td>
 </tr>
@@ -129,18 +123,18 @@ From my first `print("Hello World")` to deploying **LangGraph agents that think 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════════╗
-║  ░░░░░░░░░░░░░ ⚡  Q U A N T U M   M I S S I O N   L O G  ░░░░░░░░  ║
-╠═══════════════════════════════════════════════════════════════════════╣
-║                                                                       ║
-║  🔮  BUILDING  →  Quantum-Grade AI Systems & Agentic Workflows        ║
-║  ⚡  GRINDING  →  LangGraph · Multimodal LLMs · Production MLOps     ║
-║  🎯  TARGET    →  AI/SWE Roles That Push Boundaries                   ║
-║  🎮  PLAYING   →  Life on IMPOSSIBLE DIFFICULTY — No Checkpoints      ║
-║  👾  STATUS    →  ONLINE 24/7 — Consciousness never sleeps            ║
-║                                                                       ║
-║  ████████████████████████████████████████████████░  MISSION PROGRESS ║
-╚═══════════════════════════════════════════════════════════════════════╝
++=======================================================================+
+|  ⚡   Q U A N T U M   M I S S I O N   L O G   ⚡                    |
+|=======================================================================|
+|                                                                       |
+|  🔮  BUILDING  ->  Quantum-Grade AI Systems & Agentic Workflows       |
+|  ⚡  GRINDING  ->  LangGraph  Multimodal LLMs  Production MLOps      |
+|  🎯  TARGET    ->  AI/SWE Roles That Push Boundaries                  |
+|  🎮  PLAYING   ->  Life on IMPOSSIBLE DIFFICULTY -- No Checkpoints    |
+|  👾  STATUS    ->  ONLINE 24/7 -- Consciousness never sleeps          |
+|                                                                       |
+|  MISSION PROGRESS  [===========================================>]  97% |
++=======================================================================+
 ```
 
 </div>
@@ -170,19 +164,19 @@ From my first `print("Hello World")` to deploying **LangGraph agents that think 
 <div align="center">
 
 ```
-⚡ QUANTUM POWER LEVELS  ══════════════════════════════════════════════════
+⚡ QUANTUM POWER LEVELS  =====================================================
 
-  ◈  Python           ██████████████████████  MAX      [ASCENDED]
-  ◈  Machine Learning ████████████████████░░   95%     [LEGENDARY]
-  ◈  LLM / RAG / AI   ████████████████████░░   96%     [LEGENDARY]
-  ◈  FastAPI Backend  ███████████████████░░░   88%     [ELITE]
-  ◈  React / Next.js  ████████████████░░░░░░   82%     [ADVANCED]
-  ◈  Docker / K8s     ███████████████████░░░   88%     [ELITE]
-  ◈  Computer Vision  ████████████████░░░░░░   82%     [ADVANCED]
-  ◈  Problem Solving  ██████████████████████  MAX      [ASCENDED]
-  ◈  Grind Mentality  ██████████████████████  ∞ / ∞   [IMMORTAL]
+  >>  Python           [====================]  MAX     [ASCENDED]
+  >>  Machine Learning [==================..]   95%    [LEGENDARY]
+  >>  LLM / RAG / AI   [==================..]   96%    [LEGENDARY]
+  >>  FastAPI Backend  [================....]   88%    [ELITE]
+  >>  React / Next.js  [==============......]   82%    [ADVANCED]
+  >>  Docker / K8s     [================....]   88%    [ELITE]
+  >>  Computer Vision  [==============......]   82%    [ADVANCED]
+  >>  Problem Solving  [====================]  MAX     [ASCENDED]
+  >>  Grind Mentality  [====================]  INF     [IMMORTAL]
 
-═══════════════════════════════════════════════════════════════════════════
+=============================================================================
 ```
 
 </div>
@@ -194,9 +188,9 @@ From my first `print("Hello World")` to deploying **LangGraph agents that think 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════════╗
-║           ◈ ◈ ◈   A C H I E V E M E N T S   U N L O C K E D   ◈ ◈ ◈  ║
-╚═══════════════════════════════════════════════════════════════════════╝
++=======================================================================+
+|          * * *   A C H I E V E M E N T S   U N L O C K E D   * * *  |
++=======================================================================+
 ```
 
 </div>
@@ -286,26 +280,26 @@ Real-time **XGBoost + Isolation Forest** ensemble trained to fingerprint malicio
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════════╗
-║  ░░░░░░░░░░░░░░░░  🎮  Q U A N T U M   L O A D O U T  ░░░░░░░░░░░  ║
-╠═══════════════════════════════════════════════════════════════════════╣
-║                                                                       ║
-║  ⬡  GAMER TAG      :  Ronit_EXE                    [v2.2.100]        ║
-║  🏆  PRESTIGE       :  QUANTUM SOVEREIGN            [RANK ∞]          ║
-║  🔮  MAIN CLASS     :  Neural Architect + Cyber Warlord               ║
-║  ⚔️  PRIMARY WEAPON :  Python · LangGraph · PyTorch · FastAPI         ║
-║  🛡️  ARMOR          :  Docker · Kubernetes · Linux · SHAP             ║
-║  💀  PASSIVE SKILL  :  Coffee → Code → Ship → Repeat [∞ STACK]       ║
-║  🌍  SERVER         :  PRODUCTION — Zero lag. Zero mercy.             ║
-║  📡  PING           :  <5ms on inference. Always. Non-negotiable.     ║
-║  🎯  K/D RATIO      :  Models Shipped / Bugs = ∞                     ║
-║  ☕  FUEL           :  Black Coffee + Lo-Fi Beats + Caffeine Drip     ║
-║  🎵  SOUNDTRACK     :  NCS · Chillstep · Synthwave · Cyberpunk OST   ║
-║  💬  COMMS          :  ronitgulia3@gmail.com                          ║
-║  ⚡  PHILOSOPHY     :  "Build. Break. Learn. Rebuild. Dominate."      ║
-║                                                                       ║
-║  ███████████████████████████████████████████░ GRIND METER: 97%       ║
-╚═══════════════════════════════════════════════════════════════════════╝
++=======================================================================+
+|  🎮   Q U A N T U M   L O A D O U T   [v2.2.100]                    |
+|=======================================================================|
+|                                                                       |
+|  >>  GAMER TAG      :  Ronit_EXE                    [v2.2.100]       |
+|  🏆  PRESTIGE       :  QUANTUM SOVEREIGN            [RANK INF]        |
+|  🔮  MAIN CLASS     :  Neural Architect + Cyber Warlord               |
+|  ⚔️  PRIMARY WEAPON :  Python   LangGraph   PyTorch   FastAPI         |
+|  🛡️  ARMOR          :  Docker   Kubernetes   Linux   SHAP             |
+|  💀  PASSIVE SKILL  :  Coffee -> Code -> Ship -> Repeat [INF STACK]  |
+|  🌍  SERVER         :  PRODUCTION -- Zero lag. Zero mercy.            |
+|  📡  PING           :  <5ms on inference. Always. Non-negotiable.    |
+|  🎯  K/D RATIO      :  Models Shipped / Bugs = INF                   |
+|  ☕  FUEL           :  Black Coffee + Lo-Fi Beats + Caffeine Drip    |
+|  🎵  SOUNDTRACK     :  NCS   Chillstep   Synthwave   Cyberpunk OST   |
+|  💬  COMMS          :  ronitgulia3@gmail.com                          |
+|  ⚡  PHILOSOPHY     :  "Build. Break. Learn. Rebuild. Dominate."      |
+|                                                                       |
+|  GRIND METER  [===========================================>]     97%  |
++=======================================================================+
 ```
 
 </div>
@@ -317,7 +311,7 @@ Real-time **XGBoost + Isolation Forest** ensemble trained to fingerprint malicio
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-BREACH_THE_MATRIX-00FFFF?style=for-the-badge&labelColor=0A0A2E)](https://portfolio-1lb1.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/⬡_LINKEDIN-ESTABLISH_LINK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A2E)](https://www.linkedin.com/in/ronigulia)
+[![LinkedIn](https://img.shields.io/badge/>>_LINKEDIN-ESTABLISH_LINK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A2E)](https://www.linkedin.com/in/ronigulia)
 [![Gmail](https://img.shields.io/badge/📡_COMMS-OPEN_FREQUENCY-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A2E)](mailto:ronitgulia3@gmail.com)
 [![GitHub](https://img.shields.io/badge/💀_GITHUB-ACCESS_ARCHIVES-7B2FFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A2E)](https://github.com/ronitgulia)
 
@@ -327,15 +321,15 @@ Real-time **XGBoost + Isolation Forest** ensemble trained to fingerprint malicio
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,25:0A0A2E,50:1A0A4E,75:0A0A2E,100:000000&height=160&section=footer&text=GG+•+See+You+In+The+Quantum+Void&fontSize=22&fontColor=00FFFF&animation=blinking" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,25:0A0A2E,50:1A0A4E,75:0A0A2E,100:000000&height=160&section=footer&text=GG+--+See+You+In+The+Quantum+Void&fontSize=22&fontColor=00FFFF&animation=blinking" />
 
 <br/>
 
 ```
-◈ ══════════════════════════════════════════════════════════════════════ ◈
-         ⚡ Forged in the Quantum Realm. Deployed Across the Stars. ⚡
-              — RONIT GULIA, Neural Sovereign of the 22nd Century —
-◈ ══════════════════════════════════════════════════════════════════════ ◈
+>> ================================================================== <<
+        ⚡ Forged in the Quantum Realm. Deployed Across the Stars. ⚡
+             -- RONIT GULIA, Neural Sovereign of the 22nd Century --
+>> ================================================================== <<
 ```
 
 </div>
