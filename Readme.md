@@ -1,4 +1,4 @@
-﻿<!-- RONIT GULIA — 22ND CENTURY AI GAMER PROFILE v2.2.100 -->
+<!-- RONIT GULIA — 22ND CENTURY AI GAMER PROFILE v2.2.100 -->
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 ║                                                                          ║
 ║   DESIGNATION  :  RONIT GULIA  |  AI/ML Engineer & Full-Stack Dev        ║
 ║   CLASS        :  Quantum AI Architect + Full-Stack Warlord              ║
-║   EDUCATION    :  B.Tech CSE  |  Maharshi Dayanand University            ║
+║   EDUCATION    :  B.Tech CSE (Pursuing)  |  NIMS University            ║
 ║   LOCATION     :  India, Sol-III Sector, Milky Way                       ║
 ║   STATUS       :  >> OPEN TO WORK — AI/ML | SWE | Full-Stack <<          ║
 ║                                                                          ║
