@@ -130,7 +130,7 @@ I am **Ronit Gulia** — an **AI/ML Engineer** and **Full-Stack Developer** base
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
-║             ⚡   Q U A N T U M   M I S S I O N   L O G   ⚡          ║
+║           ⚡   Q U A N T U M   M I S S I O N   L O G   ⚡            ║
 ║                                                                       ║
 ╠═══════════════════════════════════════════════════════════════════════╣
 ║                                                                       ║
@@ -140,7 +140,7 @@ I am **Ronit Gulia** — an **AI/ML Engineer** and **Full-Stack Developer** base
 ║  📚  LEARNING  ->  Advanced RAG  Agent Memory  Evals                  ║
 ║  👾  STATUS    ->  AVAILABLE NOW — Let's Build Something Real         ║
 ║                                                                       ║
-║  AVAILABILITY  [=========================================>]  IMMEDIATE║
+║  AVAILABILITY  [=======================================>]   IMMEDIATE ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
@@ -304,7 +304,7 @@ XGBoost Isolation Forest SHAP Flask REST API Cybersecurity
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
-║       🎮   Q U A N T U M   L O A D O U T   [ v 2 . 2 . 1 0 0 ]        ║
+║      🎮   Q U A N T U M   L O A D O U T   [ v 2 . 2 . 1 0 0 ]       ║
 ╠═══════════════════════════════════════════════════════════════════════╣
 ║                                                                       ║
 ║  >>  GAMER TAG       :  Ronit_EXE                    [v2.2.100]       ║
