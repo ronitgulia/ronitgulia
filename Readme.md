@@ -130,15 +130,15 @@ I am **Ronit Gulia** — an **AI/ML Engineer** and **Full-Stack Developer** base
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
-║           ⚡   Q U A N T U M   M I S S I O N   L O G   ⚡            ║
+║            ⚡   Q U A N T U M   M I S S I O N   L O G   ⚡           ║
 ║                                                                       ║
 ╠═══════════════════════════════════════════════════════════════════════╣
 ║                                                                       ║
-║  🔮  BUILDING  ->  Production-Grade AI & Agentic Systems              ║
-║  ⚡  GRINDING  ->  LangGraph  Multimodal LLMs  MLOps                  ║
-║  🎯  SEEKING   ->  Full-Time AI/ML Engineer or SWE Role               ║
-║  📚  LEARNING  ->  Advanced RAG  Agent Memory  Evals                  ║
-║  👾  STATUS    ->  AVAILABLE NOW — Let's Build Something Real         ║
+║  🔮  BUILDING  ->  Production-Grade AI & Agentic Systems             ║
+║  ⚡  GRINDING  ->  LangGraph  Multimodal LLMs  MLOps                 ║
+║  🎯  SEEKING   ->  Full-Time AI/ML Engineer or SWE Role              ║
+║  📚  LEARNING  ->  Advanced RAG  Agent Memory  Evals                 ║
+║  👾  STATUS    ->  AVAILABLE NOW — Let's Build Something Real        ║
 ║                                                                       ║
 ║  AVAILABILITY  [=======================================>]   IMMEDIATE ║
 ║                                                                       ║
@@ -304,21 +304,21 @@ XGBoost Isolation Forest SHAP Flask REST API Cybersecurity
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
-║      🎮   Q U A N T U M   L O A D O U T   [ v 2 . 2 . 1 0 0 ]       ║
+║       🎮   Q U A N T U M   L O A D O U T   [ v 2 . 2 . 1 0 0 ]      ║
 ╠═══════════════════════════════════════════════════════════════════════╣
 ║                                                                       ║
 ║  >>  GAMER TAG       :  Ronit_EXE                    [v2.2.100]       ║
-║  🏆  PRESTIGE        :  QUANTUM SOVEREIGN            [RANK INF]       ║
-║  🔮  MAIN CLASS      :  AI/ML Engineer + Full-Stack Developer         ║
+║  🏆  PRESTIGE        :  QUANTUM SOVEREIGN            [RANK INF]      ║
+║  🔮  MAIN CLASS      :  AI/ML Engineer + Full-Stack Developer        ║
 ║  >>  PRIMARY WEAPON  :  Python  LangGraph  PyTorch  FastAPI           ║
 ║  >>  ARMOR           :  Docker  Kubernetes  Linux  Git                ║
-║  📊  RAGAS SCORE     :  0.92+ Faithfulness  0.92+ Accuracy            ║
-║  🌍  SERVER          :  PRODUCTION -- Zero lag. Zero mercy.           ║
-║  📡  PING            :  <5ms inference latency. Always.               ║
-║  🎯  AVAILABILITY    :  Open to Work -- Full-Time / Contract          ║
-║  📧  CONTACT         :  ronitgulia3@gmail.com                         ║
-║  🔗  LINKEDIN        :  linkedin.com/in/ronigulia                     ║
-║  ⚡  PHILOSOPHY      :  "Build. Break. Learn. Rebuild. Dominate."     ║
+║  📊  RAGAS SCORE     :  0.92+ Faithfulness  0.92+ Accuracy           ║
+║  🌍  SERVER          :  PRODUCTION -- Zero lag. Zero mercy.          ║
+║  📡  PING            :  <5ms inference latency. Always.              ║
+║  🎯  AVAILABILITY    :  Open to Work -- Full-Time / Contract         ║
+║  📧  CONTACT         :  ronitgulia3@gmail.com                        ║
+║  🔗  LINKEDIN        :  linkedin.com/in/ronigulia                    ║
+║  ⚡  PHILOSOPHY      :  "Build. Break. Learn. Rebuild. Dominate."    ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
