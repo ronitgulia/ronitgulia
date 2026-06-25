@@ -26,6 +26,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> QUANTUM IDENTITY MATRIX
 
+<div align="center">
+
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
@@ -37,7 +39,6 @@
 ║   DESIGNATION  :  RONIT GULIA  |  AI/ML Engineer & Full-Stack Dev        ║
 ║   CLASS        :  Quantum AI Architect + Full-Stack Warlord              ║
 ║   EDUCATION    :  B.Tech AIML (Pursuing)  |  NIMS University             ║
-║   LOCATION     :  India, Sol-III Sector, Milky Way                       ║
 ║   STATUS       :  >> OPEN TO WORK — AI/ML | SWE | Full-Stack <<          ║
 ║                                                                          ║
 ╠══════════════════════════════════════════════════════════════════════════╣
@@ -52,6 +53,8 @@
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 <table>
 <tr>
