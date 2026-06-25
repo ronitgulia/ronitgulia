@@ -99,6 +99,10 @@ I am **Ronit Gulia** — an **AI/ML Engineer** and **Full-Stack Developer** base
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="Holographic Coding" />
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="340" alt="Coding Animation" />
+
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00FFFF?style=for-the-badge&labelColor=0A0A2E&logo=vercel&logoColor=white)](https://portfolio-1lb1.vercel.app)
