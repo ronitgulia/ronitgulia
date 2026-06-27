@@ -28,18 +28,18 @@
 
 <div align="center">
 
-```
+<pre>
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║     N   E   U   R   A   L         S   O   V   E   R   E   I   G   N      ║
-║          R   O   N   I   T                   G   U   L   I   A           ║
+║  <b>   N   E   U   R   A   L         S   O   V   E   R   E   I   G   N  </b>    ║
+║  <b>        R   O   N   I   T                   G   U   L   I   A        </b>   ║
 ║                                                                          ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║                                                                          ║
-║   DESIGNATION  :  RONIT GULIA  |  AI/ML Engineer & Full-Stack Dev        ║
+║   DESIGNATION  :  RONIT GULIA  |  AI/ML Engineer &amp; Full-Stack Dev        ║
 ║   CLASS        :  Quantum AI Architect + Full-Stack Warlord              ║
 ║   EDUCATION    :  B.Tech AIML (Pursuing)  |  NIMS University             ║
-║   STATUS       :  >> OPEN TO WORK — AI/ML | SWE | Full-Stack <<          ║
+║   STATUS       :  &gt;&gt; OPEN TO WORK — AI/ML | SWE | Full-Stack &lt;&lt;          ║
 ║                                                                          ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║                                                                          ║
@@ -47,12 +47,12 @@
 ║                                                                          ║
 ║  INTELLIGENCE  [==========] MAX     MODELS DEPLOYED   [========] INF     ║
 ║  CREATIVITY    [=========.] 98%     BUGS CRUSHED      [========] MAX     ║
-║  EXECUTION     [==========] MAX     LATENCY <5ms      [========] MAX     ║
+║  EXECUTION     [==========] MAX     LATENCY &lt;5ms      [========] MAX     ║
 ║  GRIND POWER   [==========] MAX     UPTIME            [========] INF     ║
 ║  CHAOS CONTROL [=========.] 96%     RAGAS SCORE       [========] MAX     ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
-```
+</pre>
 
 </div>
 
