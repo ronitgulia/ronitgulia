@@ -283,11 +283,11 @@ XGBoost Isolation Forest SHAP Flask REST API Cybersecurity
 
 ---
 
-## 🏅 GITHUB TROPHIES
+## 📊 GITHUB STATS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ronitgulia&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ronitgulia&show_icons=true&bg_color=0A0A2E&title_color=00FFFF&icon_color=7B2FFF&text_color=FFFFFF&hide_border=true" alt="GitHub Stats"/>
 
 </div>
 
