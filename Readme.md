@@ -253,19 +253,7 @@ Real-time ensemble ML system that fingerprints malicious HTTP traffic with sub-5
 
 XGBoost Isolation Forest SHAP Flask REST API Cybersecurity
 
----
 
-## 📊 GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ronitgulia&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A2E&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&ring_color=7B2FFF&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitgulia&layout=compact&theme=radical&hide_border=true&bg_color=0A0A2E&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" width="49%"/>
-
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -281,17 +269,7 @@ XGBoost Isolation Forest SHAP Flask REST API Cybersecurity
 
 </div>
 
----
 
-## 📊 GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ronitgulia&show_icons=true&bg_color=0A0A2E&title_color=00FFFF&icon_color=7B2FFF&text_color=FFFFFF&hide_border=true" alt="GitHub Stats"/>
-
-</div>
-
----
 
 ## 🐍 CONTRIBUTION SNAKE
 
