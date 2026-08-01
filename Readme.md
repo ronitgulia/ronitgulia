@@ -1,24 +1,24 @@
-<!-- RONIT GULIA — 22ND CENTURY AI GAMER PROFILE v2.2.100 -->
+<!-- RONIT GULIA — QUANTUM AI ARCHITECT & FULL-STACK ENGINEER -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,20:0A0A2E,50:0D0D3D,80:1A0A4E,100:000000&height=350&section=header&text=RONIT%20GULIA&fontSize=90&fontColor=00FFFF&animation=blinking&stroke=00FFFF&strokeWidth=3&desc=AI%2FML%20ENGINEER%20%7C%20FULL-STACK%20DEV%20%7C%20OPEN%20TO%20WORK&descSize=22&descAlignY=78&descColor=00FF9F&fontAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,20:0b0f19,45:1e1b4b,70:3b0764,100:030712&height=280&section=header&text=RONIT%20GULIA&fontSize=80&fontColor=00F5FF&animation=twinkling&stroke=00F5FF&strokeWidth=1&desc=%E2%9A%A1%20AI%2FML%20ENGINEER%20%7C%20FULL-STACK%20ARCHITECT%20%7C%20OPEN%20TO%20WORK%20%E2%80%A2&descSize=20&descAlignY=74&descColor=00FF9F&fontAlignY=46" width="100%" />
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=>>+AI%2FML+ENGINEER+SPECIALIZING+IN+LLMs%2C+RAG+%26+AGENTIC+SYSTEMS;>>+FULL-STACK%3A+FastAPI+%7C+React+%7C+Next.js+%7C+Docker+%7C+Kubernetes;>>+RAGAS+SCORE+0.92%2B+%7C+LATENCY+%3C5ms+%7C+PRODUCTION-GRADE+AI;>>+LANGCHAIN+%7C+LANGGRAPH+%7C+PYTORCH+%7C+COMPUTER+VISION+%7C+MLOPS;>>+OPEN+TO+WORK+--+FULL-TIME+AI%2FML+%7C+SWE+%7C+FULL-STACK+ROLES;>>+BUILDING+THE+INTELLIGENCE+THAT+BUILDS+THE+FUTURE;>>+GG+--+RONIT.EXE+FULLY+OPERATIONAL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=850&lines=%E2%9A%A1+AI%2FML+ENGINEER+--+LLMs%2C+RAG+%26+AGENTIC+SYSTEMS;%F0%9F%92%A1+FULL-STACK+DEVELOPER+--+FASTAPI+%7C+NEXT.JS+%7C+REACT;%F0%9F%9A%80+PRODUCTION-GRADE+AI+--+RAGAS+0.92%2B+%7C+LATENCY+%3C5ms;%F0%9F%9F%A2+OPEN+TO+WORK+--+FULL-TIME+AI%2FML+%7C+SWE+%7C+FULL-STACK;%F0%9F%94%A5+BUILDING+THE+INTELLIGENCE+THAT+BUILDS+THE+FUTURE" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
 
-![OPEN TO WORK](https://img.shields.io/badge/>>_OPEN_TO_WORK-AVAILABLE_NOW-00FF9F?style=for-the-badge&labelColor=0A0A2E)
-![ROLE](https://img.shields.io/badge/SEEKING-AI_Engineer_%7C_SWE_%7C_Full--Stack-00FFFF?style=for-the-badge&labelColor=0A0A2E)
-![LOCATION](https://img.shields.io/badge/LOCATION-India_%7C_Remote_OK-FF00FF?style=for-the-badge&labelColor=0A0A2E)
-![BUILD](https://img.shields.io/badge/RAGAS_SCORE-0.92%2B-7B2FFF?style=for-the-badge&labelColor=0A0A2E)
-![LATENCY](https://img.shields.io/badge/INFERENCE-<5ms-FF6B00?style=for-the-badge&labelColor=0A0A2E)
+![STATUS](https://img.shields.io/badge/STATUS-AVAILABLE_NOW-00FF9F?style=for-the-badge&logo=activity&logoColor=00FF9F&labelColor=0B0F19)
+![ROLE](https://img.shields.io/badge/SEEKING-AI_ENGINEER_%7C_SWE-00F5FF?style=for-the-badge&logo=python&logoColor=00F5FF&labelColor=0B0F19)
+![LOCATION](https://img.shields.io/badge/LOCATION-INDIA_%7C_REMOTE-FF00FF?style=for-the-badge&logo=google&logoColor=FF00FF&labelColor=0B0F19)
+![RAGAS](https://img.shields.io/badge/RAGAS-0.92%2B_SCORE-7B2FFF?style=for-the-badge&logo=pytorch&logoColor=7B2FFF&labelColor=0B0F19)
+![LATENCY](https://img.shields.io/badge/INFERENCE-%3C5ms_LATENCY-FF6B00?style=for-the-badge&logo=fastapi&logoColor=FF6B00&labelColor=0B0F19)
 
 </div>
 
