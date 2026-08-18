@@ -80,3 +80,29 @@ Final-year B.Tech (AI/ML) student who ships measurable, production-oriented syst
 
 - Implemented a **Kalman filter and SORT-style multi-object tracker** from first principles in NumPy — state prediction, Joseph-form covariance update, and Hungarian-algorithm data association — validated with 20+ unit tests.
 - Benchmarked against a One Euro Filter baseline on synthetic noisy trajectories, **cutting RMSE by up to 31%** and position jitter by up to 86% under high-noise conditions while maintaining zero prediction lag through simulated occlusion.
+
+---
+
+## Education
+
+**B.Tech — Artificial Intelligence & Machine Learning**, NIMS University, Jaipur
+Coursework: Deep Learning, NLP, Computer Vision, Machine Learning, AI, DSA, DBMS, OS, Computer Networks & Security
+
+---
+
+## Certifications
+
+- Software Engineering Job Simulation — JPMorgan Chase & Co. / Forage — Jun 2026
+- Introduction to Model Context Protocol — Anthropic (ID: 5utqn2pfrk7n) — Jun 2026
+- Getting Started with AI on Jetson Nano — NVIDIA Deep Learning Institute — Dec 2025
+- Introduction to Generative AI Studio — Google Cloud / Simplilearn — Dec 2025
+
+---
+
+## Achievements
+
+- 🏆 **QuizOff 2026 Finalist** — India's Biggest AI Quiz (CampusCrew, hosted on Unstop), competing among 5,25,000+ students from 48,500+ institutions across 35+ countries — Jul 2026
+- 🚀 Shipped 4+ end-to-end ML, computer vision, and backend/LLM projects within 6 months, from data pipeline to deployment
+- 🤝 Active open-source contributor under the **Agentic-IQ** GitHub organization since April 2026
+- 🏅 Certified in Anthropic's Model Context Protocol (MCP), NVIDIA Deep Learning Institute, and Google Cloud Generative AI
+
