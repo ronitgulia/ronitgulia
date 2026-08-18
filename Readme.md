@@ -34,3 +34,49 @@ Final-year B.Tech (AI/ML) student who ships measurable, production-oriented syst
 
 **Tools & Infra:** Docker, Kubernetes, Git, GitHub, GitHub Actions, Linux, Vercel, Jest
 
+---
+
+## Experience
+
+**AI / ML Intern &nbsp;·&nbsp; CodeAlpha** *(Jan 2025 – Feb 2025)*
+
+- Built a **disease prediction model** using patient medical data and classification algorithms (Scikit-Learn) to estimate disease likelihood from health indicators.
+- Built a **credit score prediction model** applying supervised learning on financial / credit history data to classify creditworthiness.
+
+---
+
+## Projects
+
+### [RAG Domain Chatbot](https://github.com/ronitgulia)
+
+`Python` `LangChain` `FAISS / ChromaDB` `HuggingFace` `FastAPI` `React` `RAGAS`
+
+- Developed an end-to-end **Retrieval-Augmented Generation** pipeline: PDF ingestion → chunking → Hybrid FAISS + BM25 vector store → LangChain RetrievalQA, evaluated using RAGAS (0.92+ faithfulness, accuracy, and relevance).
+- Shipped a multi-turn React chat interface over a FastAPI backend for interactive, source-grounded document Q&A.
+
+---
+
+### [Identity Reconciliation Backend Service](https://github.com/ronitgulia)
+
+`Node.js` `Express` `Prisma` `SQLite` `Jest`
+
+- Built a backend service that reconciles customer identities by linking contact records (email / phone) across orders, even when different combinations are used per transaction.
+- Delivered production-ready code with full **Jest test coverage (13 / 13 passing)**, a submission-ready README, and a demo script.
+
+---
+
+### [Victor — Bot Detection System](https://github.com/ronitgulia)
+
+`Python` `XGBoost` `Isolation Forest` `SHAP` `Flask` `REST API`
+
+- Built a real-time **ensemble ML system** that fingerprints malicious HTTP traffic using XGBoost + Isolation Forest with SHAP explainability.
+- Achieved **<5ms inference latency** in production — deployed as a Flask REST API with full explainability reports per request.
+
+---
+
+### [Advanced Multi-Object Tracking with a Kalman Filter (First Principles)](https://github.com/ronitgulia)
+
+`Python` `NumPy` `SciPy (Hungarian Algorithm)` `OpenCV` `YOLOv8` `Pytest`
+
+- Implemented a **Kalman filter and SORT-style multi-object tracker** from first principles in NumPy — state prediction, Joseph-form covariance update, and Hungarian-algorithm data association — validated with 20+ unit tests.
+- Benchmarked against a One Euro Filter baseline on synthetic noisy trajectories, **cutting RMSE by up to 31%** and position jitter by up to 86% under high-noise conditions while maintaining zero prediction lag through simulated occlusion.
