@@ -15,3 +15,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ronitgulia&style=flat-square&color=4A90D9&label=Profile+Views)
 
 </div>
+
+---
+
+## Summary
+
+Final-year B.Tech (AI/ML) student who ships measurable, production-oriented systems — a Hybrid RAG chatbot scoring 0.92+ across all RAGAS metrics, a real-time bot-detection API at <5ms latency, an identity-reconciliation backend with full test coverage, and a from-scratch Kalman-filter multi-object tracker — spanning NLP/RAG, computer vision, cybersecurity AI, and full-stack development. Seeking an AI/ML or Software Engineering internship / full-time role.
