@@ -1,4 +1,7 @@
-<!-- RONIT GULIA — AI/ML ENGINEER & FULL-STACK DEVELOPER -->
+<!-- RONIT GULIA — AI/ML ENGINEER & FULL-STACK DEVELOPER
+     Paradigm: Declarative / Document-Oriented
+     Every section describes *what* to present; no procedural generation.
+     Maintained section-by-section for clean git history. -->
 
 <div align="center">
 
@@ -142,6 +145,6 @@ Coursework: Deep Learning, NLP, Computer Vision, Machine Learning, AI, DSA, DBMS
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:A8D4F5,50:6DB3F2,100:4A90D9&height=120&section=footer" width="100%" />
 
-<sub>Open to Work — AI/ML Engineer | Full-Stack Developer | ronitgulia3@gmail.com</sub>
+<sub>Open to Work — AI/ML Engineer | Full-Stack Developer | <a href="mailto:ronitgulia3@gmail.com">ronitgulia3@gmail.com</a></sub>
 
 </div>
