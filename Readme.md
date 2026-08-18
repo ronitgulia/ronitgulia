@@ -21,3 +21,16 @@
 ## Summary
 
 Final-year B.Tech (AI/ML) student who ships measurable, production-oriented systems — a Hybrid RAG chatbot scoring 0.92+ across all RAGAS metrics, a real-time bot-detection API at <5ms latency, an identity-reconciliation backend with full test coverage, and a from-scratch Kalman-filter multi-object tracker — spanning NLP/RAG, computer vision, cybersecurity AI, and full-stack development. Seeking an AI/ML or Software Engineering internship / full-time role.
+
+---
+
+## Technical Skills
+
+**Languages:** Python, C++, C, JavaScript, HTML/CSS
+
+**AI / ML:** PyTorch, TensorFlow, Keras, Scikit-Learn, XGBoost, LangChain, LangGraph, RAG, OpenCV, YOLOv8, BERT, LLMs, Agentic AI, FAISS, BM25, SHAP, RAGAS
+
+**Web / Backend:** React, Next.js, Node.js, Express, FastAPI, Flask, REST APIs, Streamlit, MongoDB, PostgreSQL, Supabase, ChromaDB
+
+**Tools & Infra:** Docker, Kubernetes, Git, GitHub, GitHub Actions, Linux, Vercel, Jest
+
