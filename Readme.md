@@ -1,6 +1,7 @@
 <!-- RONIT GULIA — AI/ML ENGINEER & FULL-STACK DEVELOPER
      Paradigm: Declarative / Document-Oriented
      Every section describes *what* to present; no procedural generation.
+     Sections: Header · Summary · Skills · Experience · Projects · Education · Certifications · Achievements · Footer
      Maintained section-by-section for clean git history. -->
 
 <div align="center">
