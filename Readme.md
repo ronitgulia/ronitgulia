@@ -111,36 +111,6 @@ Coursework: Deep Learning, NLP, Computer Vision, Machine Learning, AI, DSA, DBMS
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronitgulia&theme=default&hide_border=false&background=FFFFFF&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9&sideLabels=555555&sideNums=4A90D9&currStreakNum=4A90D9&dates=888888" alt="GitHub Streak" width="70%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronitgulia&bg_color=ffffff&color=4A90D9&line=4A90D9&point=6DB3F2&area=true&area_color=A8D4F5&hide_border=false&custom_title=Contribution%20Activity" alt="Activity Graph" width="88%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronitgulia/ronitgulia/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ronitgulia/ronitgulia/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ronitgulia/ronitgulia/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:A8D4F5,50:6DB3F2,100:4A90D9&height=120&section=footer" width="100%" />
